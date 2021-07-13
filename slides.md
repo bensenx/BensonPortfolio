@@ -25,7 +25,7 @@ Past Designs&Builds
 # Multi-Material MIP-SLA 3D Printer
 
 
-<img border="rounded" src="images/multi-material2.jpg" width = 600>
+<img border="rounded" src="\images\multi-material2.jpg" width = 600>
 
 I designed, prototyped and fabricated the optical and material feeding system of this multi-material printer. An 100W industrial UV light LED was utilized to provide a collimated light beam that passes through a DMD device to form images. 
 
@@ -36,9 +36,9 @@ The Printing Plate was composed of a sealed cylinder with multiple inlets and ou
 
 <div grid="~ cols-2 gap-2" m="-t-2">
 
-<img border="rounded" src="images\1.png">
+<img border="rounded" src="\images\1.png">
 
-<img border="rounded" src="images\multi-material.jpg">
+<img border="rounded" src="\images\multi-material.jpg">
 
 </div>
 
@@ -50,9 +50,9 @@ The Printing Plate was composed of a sealed cylinder with multiple inlets and ou
 
 <div grid = "~ cols-2 gap-2" m="-t-2">
 
-<img border="rounded" src="images/5.PNG" width="500">
+<img border="rounded" src="/images/5.PNG" width="500">
 
-<img border="rounded" src="images/4.PNG" width="350" >
+<img border="rounded" src="/images/4.PNG" width="350" >
 
 </div>
 
@@ -62,9 +62,9 @@ I designed and built the material feeding and temperature control system to upgr
 
 <div grid = "~ cols-2 gap-2" m="-t-2">
 
-<img border="rounded" src="images/3.PNG" width="500">
+<img border="rounded" src="\images\3.PNG" width="500">
 
-<img border="rounded" src="images\File_000.jpeg" width="210" >
+<img border="rounded" src="/images\File_000.jpeg" width="210" >
 
 </div>
 
@@ -78,9 +78,9 @@ A PID controlled infrared heating system was utilized to keep the temperature in
 
 <div grid = "~ cols-2 gap-2" m="-t-2">
 
-<img border="rounded" src="images\microprinter.jpg" width="400">
+<img border="rounded" src="/images\microprinter.jpg" width="400">
 
-<img border="rounded" src="images\microprinter2.jpg" width="400" >
+<img border="rounded" src="/images\microprinter2.jpg" width="400" >
 
 </div>
 
@@ -93,9 +93,9 @@ A showcase of a micron-level DLP printer model I drew with Solidworks and Render
 
 <div grid = "~ cols-2 gap-2" m="-t-2">
 
-<img border="rounded" src="images\helmet-1.png" width="460">
+<img border="rounded" src="/images\helmet-1.png" width="460">
 
-<img border="rounded" src="images\helmet-2.png" width="400" >
+<img border="rounded" src="/images\helmet-2.png" width="400" >
 
 </div>
 
