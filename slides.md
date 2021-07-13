@@ -100,3 +100,18 @@ A showcase of a micron-level DLP printer model I drew with Solidworks and Render
 </div>
 
 This is a model drawn with Solidworks for 3D printing a special helmet with hexagon pattern. Those patterns are designed for mounting coils that improve MRI image quality. 
+
+
+---
+
+# High Level of Detail Shop Drawing Sample
+
+This is a typical shop drawing sample that provides comprehensive product information, right side small picture is a zoom in of green cirled part.
+
+<div grid = "~ cols-2 gap-2" m="t-2">
+
+<img  border="rounded" src="/images/shopdrawing_1.png" width="600">
+
+<img border="rounded" src="/images/shopdrawing_detail.png" width="300">
+
+</div>
